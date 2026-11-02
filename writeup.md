@@ -70,6 +70,6 @@ The clean-room checks have two gaps: the 8-gram check sees only exact 8-word run
 
 ## 7. Submission and links
 
-- Leaderboard submissions of the rewrite: 57752331 (Oct 29, base harness, public score 0.55) and 57910428 (Nov 2, with MTP).
+- Leaderboard submissions of the rewrite: 57752331 (Oct 29, base harness, public score 0.55) and 57910428 (Nov 2, with MTP, public score 0.47).
 - Full method, all checks and per-game tables: https://github.com/quanticsoul4772/arc-wm-paper (paper.pdf).
 - Code (CC0): https://github.com/quanticsoul4772/arc-wm-agent. It re-implements The Duck (Tufalabs/duck-harness) without its source; that repository has no LICENSE file; its harness package lists an MIT classifier.
