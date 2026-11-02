@@ -1,6 +1,6 @@
 # What replay tests miss: verifying a clean-room rewrite of an LLM agent harness
 
-**Subtitle:** Replay checks passed but a live test caught a prompt example; nine controlled tests then showed the score is bounded by decisions per game, and speculative decoding adds 25–30% more.
+**Subtitle:** Replay checks passed, a live test caught a prompt example, and nine tests showed decisions per game bound the score; MTP adds 25–30% more.
 
 ## Summary
 
