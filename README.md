@@ -2,7 +2,7 @@
 
 ARC Prize 2026 (ARC-AGI-3), paper track.
 
-- `writeup.md`: the Kaggle writeup (1,500 words).
+- `writeup.md`: the Kaggle writeup (about 1,450 words); `cover.png`: its cover image.
 - `paper.pdf` and `paper.md`: full method and results. Covers the deterministic equivalence checks, the pre-registered live tests, and nine controlled tests of harness mechanisms on the rewrite, including MTP speculative decoding.
 - Code: https://github.com/quanticsoul4772/arc-wm-agent (CC0 1.0).
 
